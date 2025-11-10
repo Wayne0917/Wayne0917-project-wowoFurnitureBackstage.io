@@ -1,7 +1,7 @@
 # 🪑 WoWo Furniture Backstage — 後台管理系統
 
-👉 專案連結： 前台網站
- ｜ 後台管理系統
+👉 專案連結： [前台網站](https://wayne0917.github.io/Wayne0917-project-wowoFurniture.io/)
+ ｜ [後台管理系統](https://wayne0917.github.io/Wayne0917-project-wowoFurnitureBackstage.io/)
 
 🧭 專案簡介
 
