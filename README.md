@@ -46,9 +46,3 @@ git clone https://github.com/Wayne0917/Wayne0917-project-wowoFurnitureBackstage.
 ```
 
 開啟 index.html 即可在瀏覽器中查看後台畫面。
-
-💬 相關連結
-
-🏠 前台網站 Repo
-
-🧰 後台管理 Repo
