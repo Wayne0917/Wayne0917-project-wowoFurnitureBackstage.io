@@ -41,8 +41,9 @@ API 串接	Axios
 
 下載專案：
 
+```bash
 git clone https://github.com/Wayne0917/Wayne0917-project-wowoFurnitureBackstage.io.git
-
+```
 
 開啟 index.html 即可在瀏覽器中查看後台畫面。
 
